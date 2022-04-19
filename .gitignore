@@ -4,8 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-/config/config
-./config/config
+
+config/config.env
+config/.hidden
 
 # testing
 /coverage
