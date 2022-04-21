@@ -5,8 +5,9 @@
 /.pnp
 .pnp.js
 
-config/config.env
-config/.hidden
+
+/config/config.env
+/config/.hidden
 
 # testing
 /coverage
